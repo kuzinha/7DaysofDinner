@@ -201,8 +201,10 @@ padding-top: 10px;
 }
 .detail{
 padding-left: 10px;
+    
 
 }
 .detail ol{
     padding-top: 10px;
+    box-sizing: border-box;
 }
