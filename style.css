@@ -23,7 +23,7 @@ overflow: hidden;
 margin: 0;
 padding-left: 5px;
 box-sizing: border-box;
-background:url('../images/back2.jpg') no-repeat; 
+background:url('back2.jpg') no-repeat; 
 background-size: cover;
 background-attachment: fixed;
 background-position: center;
